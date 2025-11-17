@@ -1,0 +1,19 @@
+LM in Artificial Intelligence Image Processing and Computer Vision - 17/07/2025
+
+1. (A) Define the concept of scale invariance for local features, then describe
+   the scale-space, why it has been introduced and what tool can be used to
+   compute it;
+   (B) Describe the Lindeberg salient point features detector, its mathematical
+   formulation, what type of features it detects and how a salient point is
+   associated with a specific scale;
+   (C) Finally, briefly describe the relation between the Lindeberg detector and
+   the Difference of Gaussian detector proposed by Lowe.
+2. (A) Describe in detail the motivating experiment for the introduction of
+   Residual Networks (ResNets) and discuss if it shows underfitting or
+   overfitting, justifying your answer and explaining why the architecture
+   ResNets should reduce it.
+   (B) Draw the standard and bottleneck residual blocks used in ResNets and
+   compute their numbers of parameters and FLOPs. Compare them to justify the
+   introduction of the bottleneck variant
+   (C) Finally, discuss why and how the standard residual block is modified at
+   the beginning of a stage.
